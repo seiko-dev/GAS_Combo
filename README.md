@@ -1,5 +1,5 @@
 # GAS_Combo
-Gameplay Ability Systemを使ったベルトスクロールアクションゲームのサンプルプロジェクトです。
+Gameplay Ability Systemを使ったベルトスクロールアクション風ゲームのサンプルプロジェクトです。
 
 ![image](https://user-images.githubusercontent.com/40533980/209134792-ee0f97b4-5de5-4e14-bf05-cfc69c90fbf5.png)
 
