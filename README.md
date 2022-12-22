@@ -6,14 +6,13 @@ Gameplay Ability Systemを使ったベルトスクロール風アクションゲ
 # 特徴
 - C++無し、全てBlueprint実装
 - Gameplay Ability System関連機能
-  - 以下のものを使用しています
+  - 以下の機能を使用しています(BPで利用できる範囲で)
     - Gameplay Ability
     - Gameplay Tag
     - Gameplay Cue
   - 逆に以下の機能は未使用です
     - Gameplay Effect
     - Gameplay Attributes
-
 - ベルトスクロール風アクション
   - Data TableとData Assetを使ったキャラ別の技表
   - ヒット時のみ派生するコンボ
