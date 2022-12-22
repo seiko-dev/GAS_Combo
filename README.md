@@ -1,17 +1,26 @@
 # GAS_Combo
-Gameplay Ability Systemを使ったベルトスクロールアクション風ゲームのサンプルプロジェクトです。
+Gameplay Ability Systemを使ったベルトスクロール風アクションゲームのサンプルプロジェクトです。
 
 ![image](https://user-images.githubusercontent.com/40533980/209134792-ee0f97b4-5de5-4e14-bf05-cfc69c90fbf5.png)
 
 # 特徴
 - C++無し、全てBlueprint実装
-- Gameplay Ability System関連機能のうち、以下のものを使用しています
-  - Gameplay Ability
-  - Gameplay Tag
-  - Gameplay Cue
-- 逆に以下の機能は未使用
-  - Gameplay Effect
-  - Gameplay Attributes
+- Gameplay Ability System関連機能
+  - 以下のものを使用しています
+    - Gameplay Ability
+    - Gameplay Tag
+    - Gameplay Cue
+  - 逆に以下の機能は未使用です
+    - Gameplay Effect
+    - Gameplay Attributes
+
+- ベルトスクロール風アクション
+  - Data TableとData Assetを使ったキャラ別の技表
+  - ヒット時のみ派生するコンボ
+  - 格闘、掴み、投げ、投げ巻き込み
+  - ヒットストップ、ヒットスロー、ヒットシェイク
+  - アイテムボックス、消費アイテム、装備アイテム、装備による技変化
+  - 簡易なザコ敵制御
 
 # 解説
 Wikiで記述予定
