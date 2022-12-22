@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		}
+	]
+}
