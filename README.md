@@ -11,16 +11,19 @@ Gameplay Ability Systemを使ったベルトスクロール風アクションゲ
     - Gameplay Ability
     - Gameplay Tag
     - Gameplay Cue
-  - 逆に以下の機能は未使用です
+  - 逆に以下の機能は使用していません
     - Gameplay Effect
     - Gameplay Attributes
 - ベルトスクロール風アクション
   - Data TableとData Assetを使ったキャラ別の技表
-  - ヒット時のみ派生するコンボ
+  - ヒット時のみ派生するコンボシステム
   - 格闘、掴み、投げ、投げ巻き込み
   - ヒットストップ、ヒットスロー、ヒットシェイク
   - アイテムボックス、消費アイテム、装備アイテム、装備による技変化
-  - 簡易なザコ敵制御
+  - 簡易な敵制御
+
+# 動作サンプル
+
 
 # 解説
 Wikiで記述予定
@@ -60,8 +63,9 @@ TODO: 目次的なページへのリンクを貼る
 - [GASDocumentation/README.jp.md at lang-ja · sentyaanko/GASDocumentation](https://github.com/sentyaanko/GASDocumentation/blob/lang-ja/README.jp.md)
 - [GASShooter/README.jp.md at lang-ja · sentyaanko/GASShooter](https://github.com/sentyaanko/GASShooter/blob/lang-ja/README.jp.md)
 
-資料を残して下さる方々に感謝致します…🙏
+資料を残して下さる方々に感謝致します🙏
 
 ----
+どなたかのお役に立てれば幸いです。
 
 以上
