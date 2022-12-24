@@ -5,8 +5,11 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 
 TODO: 動画ツイートへのリンクか何か
 
+# 動作環境
+- Unreal Engine 5.0.3 以降
+- Windows版で動作確認
+
 # 特徴
-- Unreal Engine 5.0.3　で動作
 - C++無し、全てBlueprint実装
 - Gameplay Ability System関連機能
   - 以下の機能を使用しています(BPで利用できる範囲で)
