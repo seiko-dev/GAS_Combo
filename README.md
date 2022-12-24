@@ -1,11 +1,12 @@
 # GAS_Combo
-[Gameplay Ability System](https://docs.unrealengine.com/latest/ja/gameplay-ability-system-for-unreal-engine/)を使ったベルトスクロールアクション風ゲームのプロジェクトです。
+Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/ja/gameplay-ability-system-for-unreal-engine/)を使ったベルトスクロールアクション風サンプルです。
 
 ![image](https://user-images.githubusercontent.com/40533980/209134792-ee0f97b4-5de5-4e14-bf05-cfc69c90fbf5.png)
 
 TODO: 動画ツイートへのリンクか何か
 
 # 特徴
+- Unreal Engine 5.0.3　で動作
 - C++無し、全てBlueprint実装
 - Gameplay Ability System関連機能
   - 以下の機能を使用しています(BPで利用できる範囲で)
