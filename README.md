@@ -1,5 +1,5 @@
 # GAS_Combo
-Gameplay Ability Systemを使ったベルトスクロールアクション風ゲームのプロジェクトです。
+[Gameplay Ability System](https://docs.unrealengine.com/latest/ja/gameplay-ability-system-for-unreal-engine/)を使ったベルトスクロールアクション風ゲームのプロジェクトです。
 
 ![image](https://user-images.githubusercontent.com/40533980/209134792-ee0f97b4-5de5-4e14-bf05-cfc69c90fbf5.png)
 
@@ -32,6 +32,9 @@ TODO: 動画ツイートへのリンクか何か
 - [使用されている素材の一部は、Epic Games, Inc. の商標ならびに著作物です。Epicは無断転用を禁じます。本素材はEpicの公式素材ではなく、Epicにより承認されていません。](https://www.epicgames.com/site/ja/fan-art-policy)
 - 大きく影響を受けている作品との類似性については、ファン・アートの範疇という認識ですが、権利的な問題がありましたら速やかに対応致します
 
+# 想定利用対象者
+「GAS完全に理解(優越の錯覚)した。でもLyraは参考にするにはゴツすぎる。Action RPGぐらいの規模かつ別ジャンルの日本語解説付サンプルないかな～」と思う人(つまり私)
+
 # 実装解説
 [Wikiで小分けに記事化予定](https://github.com/seiko-dev/GAS_Combo/wiki)
 
@@ -63,7 +66,7 @@ TODO: 動画ツイートへのリンクか何か
 資料を残して下さる方々に感謝致します🙏
 
 # 作者
-[seiko_dev](https://twitter.com/seiko_dev)
+[恒吉星光](https://twitter.com/seiko_dev)
 
 ----
 どなたかのお役に立てれば幸いです。
