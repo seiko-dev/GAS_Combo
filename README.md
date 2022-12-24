@@ -3,7 +3,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 
 ![image](https://user-images.githubusercontent.com/40533980/209134792-ee0f97b4-5de5-4e14-bf05-cfc69c90fbf5.png)
 
-TODO: 動画ツイートへのリンクか何か
+[動画はこちら](https://twitter.com/seiko_dev/status/1606785588064944128)
 
 # 動作環境
 - Unreal Engine 5.0.3 以降
@@ -26,6 +26,7 @@ TODO: 動画ツイートへのリンクか何か
   - ヒットストップ、ヒットスロー、ヒットシェイク
   - アイテムボックス、消費アイテム、装備アイテム、装備による技変化
   - 簡易な敵制御
+- [Unreal Engine (UE) Advent Calendar 2022](https://qiita.com/advent-calendar/2022/ue)参加記事です
 
 # 注意事項
 - 教科書的なサンプルプロジェクトではありません
