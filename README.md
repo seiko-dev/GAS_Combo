@@ -5,7 +5,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 
 [動画はこちら](https://twitter.com/seiko_dev/status/1606785588064944128)
 
-Git LFSを利用しているため、Githubの"Dowmload Zip"だとうまくダウンロードできないようです。Cloneせず利用する場合、[Release](https://github.com/seiko-dev/GAS_Combo/releases)から最新のものを取得して頂ければと思います。
+Git LFSを利用しているため、Githubの"Dowmload Zip"機能でダウンロードした場合は正しく動作しないようです。Cloneせず利用する場合、[Release](https://github.com/seiko-dev/GAS_Combo/releases)から最新のものを取得して頂ければと思います。
 
 # 動作環境
 - Unreal Engine 5.0.3 以降
