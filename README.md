@@ -66,6 +66,8 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
   - [【UE4】Gameplay Ability System を使い始めたい人向けの情報 - Qiita](https://qiita.com/sentyaanko/items/314ee39feb62ce67b885)
   - [GASDocumentation/README.jp.md at lang-ja · sentyaanko/GASDocumentation](https://github.com/sentyaanko/GASDocumentation/blob/lang-ja/README.jp.md)
   - [GASShooter/README.jp.md at lang-ja · sentyaanko/GASShooter](https://github.com/sentyaanko/GASShooter/blob/lang-ja/README.jp.md)
+- もっと資料が必要なら
+  - [Unreal Engine Gameplay Ability System | UE5攻略](https://ue5study.com/unrealengine-gameplay-ability-system/)　
 
 資料を残して下さる方々に感謝致します🙏
 
