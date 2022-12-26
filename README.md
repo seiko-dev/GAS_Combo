@@ -47,6 +47,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 
 - ざっくり概要を知る
   - [猫でも分かる UE4の新しいサンプル「Action RPG」について【第８回UE4勉強会 in 大阪 2018】 | ドクセル](https://www.docswell.com/s/EpicGamesJapan/KNLLP5-UE4_SGOsaka2018_ActionRPGSampleCat)
+  - [目指せ脱UE4初心者！？知ってると開発が楽になる便利機能を紹介 - DataAsset, Subsystem, GameplayAbility編 - | ドクセル](https://www.docswell.com/s/historia_Inc/5WVYJK-ue4-dataasset-subsystem-gameplayability)
 - 見ながら手を動かす
   - [[UE4]GameplayAbilitySystemでコンボ攻撃を作る｜株式会社ヒストリア](https://historia.co.jp/archives/15422/)
   - [【UE4/UE5初心者向け】GameplayAbilitiesをC++を書かずに使ってみた - YouTube](https://www.youtube.com/playlist?list=PLfKehW5UrkqvSzuAi6JJglclwQCeUQFG8)
