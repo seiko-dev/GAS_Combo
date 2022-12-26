@@ -43,7 +43,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 [Wikiで記述しています](https://github.com/seiko-dev/GAS_Combo/wiki)
 
 # 参考資料
-神まとめサイトである[Unreal Engine Gameplay Ability System | UE5攻略](https://ue5study.com/unrealengine-gameplay-ability-system/)で全てが手に入ります。自分の場合はざっくり以下のような経路で学びました
+神まとめサイト[UE5攻略](https://ue5study.com/)の[Gameplay Ability System](https://ue5study.com/unrealengine-gameplay-ability-system/)ページで全てが手に入ります。自分の場合はざっくり以下のような経路で学びました
 
 - ざっくり概要を知る
   - [猫でも分かる UE4の新しいサンプル「Action RPG」について【第８回UE4勉強会 in 大阪 2018】 | ドクセル](https://www.docswell.com/s/EpicGamesJapan/KNLLP5-UE4_SGOsaka2018_ActionRPGSampleCat)
