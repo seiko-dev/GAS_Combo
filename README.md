@@ -53,6 +53,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
   - [Action RPG：Epic コンテンツ - UE マーケットプレイス](https://www.unrealengine.com/marketplace/ja/product/action-rpg)
   - [Lyra Starter Game：UE ゲームサンプル - UE マーケットプレイス](https://www.unrealengine.com/marketplace/ja/product/lyra)
 - 先人たちの記録を読む
+  - [第18回UE5ぷちコン参加しての感想･技術的な振り返り - ナスヴィッチブログ（はてな）](https://nasvic.hateblo.jp/entry/2022/09/15/014141)
   - [GameplaySystem カテゴリーの記事一覧 - そうだ、ゲームを作ろう](https://wvigler.hatenablog.com/archive/category/GameplaySystem)
   - [GASのデザインパターン まとめ - じゃっくぽっとラボ](https://jackpot-lab.hateblo.jp/entry/2021/12/24/070000)
   - [ネリスさん備忘録](https://lunanelis.hatenablog.com/archive/category/GAS)
