@@ -37,7 +37,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
     - 特にネットワーク対応を全く意識していないので、かなりヤバイ書き方をしている可能性が高いです
   - やってみた系の記事に属します
 - [使用されている素材の一部は、Epic Games, Inc. の商標ならびに著作物です。Epicは無断転用を禁じます。本素材はEpicの公式素材ではなく、Epicにより承認されていません。](https://www.epicgames.com/site/ja/fan-art-policy)
-- 大きく影響を受けている作品との類似性については、ファン・アートの範疇という認識ですが、権利的な問題がありましたら速やかに対応致します
+- 大きく影響を受けている作品との類似性については、ファン・コンテンツの範疇という認識ですが、権利的な問題がありましたら速やかに対応致します
 
 # 実装解説
 [Wikiで記述しています](https://github.com/seiko-dev/GAS_Combo/wiki)
