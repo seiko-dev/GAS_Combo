@@ -16,6 +16,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 - Gameplay Ability System関連機能
   - 以下の機能を使用しています(BPで利用できる範囲で)
     - Gameplay Ability
+    - Gameplay Task
     - Gameplay Tag
     - Gameplay Cue
   - 逆に以下の機能は使用していません
