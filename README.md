@@ -72,6 +72,10 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
   - [【UE4】Gameplay Ability System を使い始めたい人向けの情報 - Qiita](https://qiita.com/sentyaanko/items/314ee39feb62ce67b885)
   - [GASDocumentation/README.jp.md at lang-ja · sentyaanko/GASDocumentation](https://github.com/sentyaanko/GASDocumentation/blob/lang-ja/README.jp.md)
   - [GASShooter/README.jp.md at lang-ja · sentyaanko/GASShooter](https://github.com/sentyaanko/GASShooter/blob/lang-ja/README.jp.md)
+- Unreal Fest 2022 GAS講演
+  - [Exploring the Gameplay Ability System (GAS) with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0)
+    - 日本語字幕あり
+    - 基本資料、関連資料などへのリンクあり
 
 資料を残して下さる方々に感謝致します🙏
 
