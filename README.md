@@ -75,7 +75,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 - Unreal Fest 2022 GAS講演
   - [Exploring the Gameplay Ability System (GAS) with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0)
     - 日本語字幕あり
-    - 基本資料、関連資料などへのリンクあり
+    - 関連資料リンクあり
 
 資料を残して下さる方々に感謝致します🙏
 
