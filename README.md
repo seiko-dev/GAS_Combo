@@ -32,7 +32,7 @@ Unreal Engineの[Gameplay Ability System](https://docs.unrealengine.com/latest/j
 - [Unreal Engine (UE) Advent Calendar 2022](https://qiita.com/advent-calendar/2022/ue)参加記事です
 
 # 注意事項
-- 教科書的なサンプルプロジェクトではありません
+- **教科書的なサンプルプロジェクトではありません**
   - やってみた系の記事に属します
     - 間違ったり効率の悪い実装をしている可能性があります
     - 間違いを大声で叫ぶことによって真(まこと)の識者からの鉞を待つスタイルです
